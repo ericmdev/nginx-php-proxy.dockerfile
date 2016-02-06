@@ -1,6 +1,6 @@
 ## Docker: Debian - NGINX (PHP Proxy)
 
-[![Build Status](https://travis-ci.org/ericmdev/nginx-php-proxy.dockerfile.svg?branch=master)](https://travis-ci.org/ericmdev/nginx-php-proxy.dockerfile);
+[![Build Status](https://travis-ci.org/ericmdev/nginx-php-proxy.dockerfile.svg?branch=master)](https://travis-ci.org/ericmdev/nginx-php-proxy.dockerfile)
 
 **Dockerfile** of [Debian](https://www.debian.org/) [NGINX](https://www.nginx.com/) configured to proxy PHP requests to the FastCGI service.
 
